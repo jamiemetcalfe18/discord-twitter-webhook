@@ -1,2 +1,3 @@
 # discord-twitter-webhook
-basic tweet posting for a discord webhook
+Basic webhook stuff.
+Mainly this is for displaying a tweet used in discord webhooks.
